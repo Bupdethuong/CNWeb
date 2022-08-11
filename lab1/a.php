@@ -1,12 +1,3 @@
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Chào các bạn</title>
-</head>
-
-<body>
 <?php
-echo "we ẩe nubme";
+echo "Chao tat ca den voi lap trinh web";
 ?>
-</body>
-</html>
